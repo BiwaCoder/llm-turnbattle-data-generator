@@ -1,0 +1,16 @@
+{
+    "Player": {
+        "Name": "Hero",
+        "HP": 100,
+        "Attack": 20,
+        "Defense": 10,
+        "Speed": 15
+    },
+    "Enemy": {
+        "Name": "Slime",
+        "HP": 50,
+        "Attack": 10,
+        "Defense": 5,
+        "Speed": 8
+    }
+}
